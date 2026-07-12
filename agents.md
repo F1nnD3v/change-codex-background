@@ -5,3 +5,4 @@
 - Do not patch or redistribute Codex application binaries.
 - Document that the localhost debugging port is temporary and has security implications.
 - Keep the committed background asset synchronized with the latest tested theme package.
+- Version the README image URL when replacing the asset under the same filename so GitHub does not show a stale cached preview.

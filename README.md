@@ -2,7 +2,7 @@
 
 An unofficial, reversible runtime theme that gives the Codex desktop app an anime background without modifying its signed installation.
 
-![Anime background preview](codex-anime-background.png)
+![Anime background preview](codex-anime-background.png?raw=1&v=2)
 
 ## Requirements
 
